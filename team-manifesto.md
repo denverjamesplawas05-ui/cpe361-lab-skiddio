@@ -2,7 +2,7 @@
 
 
 
-We are in this together.
+This is an example.
 
 
 
