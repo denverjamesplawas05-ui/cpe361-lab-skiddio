@@ -2,8 +2,7 @@
 
 
 
-This will be another example.
-
+This will be another example
 
 
 
