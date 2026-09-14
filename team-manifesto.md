@@ -2,7 +2,7 @@
 
 
 
-This is a short sentence for testing.
+We are in this together.
 
 
 
